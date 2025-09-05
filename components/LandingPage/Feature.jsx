@@ -1,7 +1,7 @@
 "use client";
 
 import { HoverEffect } from "@/components/ui/card-hover-effect";
-import { FAQ } from "@/components/LandingPage/FAQ"; // if you want to import FAQ
+import { FAQ } from "./FaQ"; 
 
 export function Features() {
   return (

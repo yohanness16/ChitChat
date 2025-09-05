@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import Lottie from "lottie-react";
-import chatAnimation from "@/public/assets/chatAnimation.json"; 
+import chatAnimation from "@/public/assets/ChatAnimation"; 
 
 export default function HeroAnimation() {
   return (
